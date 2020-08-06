@@ -1,0 +1,13 @@
+html {
+  font-size: 10px;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #f7fbfc;
+  font-family: 'Quattrocento', serif;
+}
